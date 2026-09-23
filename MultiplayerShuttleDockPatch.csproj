@@ -5,7 +5,16 @@
     <RootNamespace>MultiplayerShuttleDockPatch</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <LangVersion>12</LangVersion>
+	<AssemblyVersion>1.0.0.1</AssemblyVersion>
+	<FileVersion>1.0.0.1</FileVersion>
+	<InformationalVersion>1.0.0.1</InformationalVersion>
+	<IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="About\" />
+    <Folder Include="References\" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Krafs.Publicizer" Version="2.3.2">
