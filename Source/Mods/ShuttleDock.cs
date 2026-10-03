@@ -4,8 +4,9 @@ using Verse;
 namespace MultiplayerShuttleDockPatch.Source.Mods;
 
 /// <summary>
-///     Multiplayer Patch for Shuttle Dock by Salvador, Last Update: 4 Aug @ 4:22pm 2026
-///     https://steamcommunity.com/workshop/filedetails/?id=3648642429
+///     Multiplayer Patch for Shuttle Dock by Salvador,
+///     Last Update: 4 Aug @ 4:22pm 2026
+///     <see href="https://steamcommunity.com/workshop/filedetails/?id=3648642429" />
 /// </summary>
 [MpCompatFor("Salvador143.ShuttleDock")]
 public class ShuttleDock
